@@ -2,7 +2,7 @@
 
 This is a fork of [Demo File Upload](http://blueimp.github.io/jQuery-File-Upload/)
 
-I needed this as an experiment for others for use around angularjs.
+I needed this as an experiment for others for use around angularjs.  Also other same [here for chunking](http://www.html5rocks.com/en/tutorials/file/dndfiles/)
 
 ## Description
 File Upload widget with multiple file selection, drag&amp;drop support, progress bars, validation and preview images, audio and video for jQuery.  
